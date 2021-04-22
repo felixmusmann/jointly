@@ -1,5 +1,7 @@
 # Jointly: Signal Synchronizer
 
+_This repository is archived. Development of this module has moved to https://github.com/hpi-dhc/jointly._
+
 ## The Syncing Process
 
 To sync two sources with each other, they need a simultaneously recorded signal with a characteristic signature at two timepoints in common. This could be the magnitude of the accelerometer for example, if multiple devices are shaken together.
